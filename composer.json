@@ -1,0 +1,21 @@
+{
+    "name": "voidemort/laravel-verify-sign",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Voidemort\\LaravelVerifySign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "voidemort",
+            "email": "824403856@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "ext-openssl": "*"
+    }
+}
